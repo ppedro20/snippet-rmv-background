@@ -1,2 +1,2 @@
-# Remove Background APP
+# Remove Background Snippet
 snippet in python to remove backgrounds of images
